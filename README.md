@@ -1,5 +1,7 @@
 # NOAA-PMEL-OME_Extraction_Protocol_DiscFilter_Centrifuge
 
+[![DOI](https://zenodo.org/badge/1032147704.svg)](https://doi.org/10.5281/zenodo.16740832)
+
 NOTE: This is an incomplete draft including only the FAIRe and MIOP terms, a full procedure with all BeBOP sections completed will be released soon
 
 ## Disclaimer
