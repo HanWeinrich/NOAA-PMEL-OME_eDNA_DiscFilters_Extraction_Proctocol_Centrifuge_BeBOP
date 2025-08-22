@@ -7,7 +7,7 @@ analyses: DNA extraction [OBI:0000257]
 geographic_location: North East Pacific Ocean [GAZ:00013765], Bering Sea [GAZ:00008990], Arctic Ocean [GAZ:00000323], Lake Washington [GAZ:00008722]
 broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic zone [ENVO:00000209], freshwater biome [ENVO:00000873]
 local_environmental_context: oceanic epipelagic zone biome [ENVO:01000035], marine benthic biome [ENVO:01000024], freshwater lake [ENVO:00000021]
-environmental_medium: sea water [ENVO:00002149], fresh water ENVO:00002011 [ENVO:00002011]
+environmental_medium: sea water [ENVO:00002149], fresh water [ENVO:00002011]
 target: deoxyribonucleic acid (DNA) [NCIT:C449]
 creator: Shannon Brown, Han Weinrich, Zachary Gold
 materials_required: vortexer [OBI:0400118], centrifuge [OBI:0400106], incubator [OBI:0000136]
