@@ -113,7 +113,7 @@ nucl_acid_ext_method_additional: not applicable
 | SPECIALISED TERM | DEFINITION |
 | ------------- | ------------- |
 | Extraction blank  | Extraction negative control. Typically nuclease-free water or an empty filter is run through the DNA extraction process to control for contamination in the DNA extraction step.  |
-| Field blank  | Sampling negative control. Typically distilled or reverse osmosis water is run through a filter like a seawater eDNA sample to control for contamination in the field sampling step.  |
+| Field blank  | Sampling negative control. Typically distilled or reverse osmosis water is run through a filter like a water eDNA sample to control for contamination in the field sampling step.  |
 | No template control | PCR negative control. Typically nuclease-free water is loaded in place of a sample on a PCR to control for contamination in the PCR step. |
 | Positive control  | PCR positive control. Typically a synthetic DNA strand, non-indigenous DNA extract, or intentionally designed mock community is loaded in place of a sample on a PCR to control for contamination and index hopping in the PCR step. |
 
@@ -166,7 +166,7 @@ For a full extraction set, including 23 eDNA samples and a field blank:
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment** |||||||
 |BioSafety II cabinet|Biological safety cabinet (INT-1100A2)|Kewaunee|1|Can be substituted with generic; internal UV light required.|
-| Heatshaker | Fisherbrand incubating mini-shaker | Fisher Scientific | 1 | Can be substituted with generic; hot bath not recommend for sterility reasons. |
+| Heatshaker | Fisherbrand incubating mini-shaker | Fisher Scientific | 1 | Can be substituted with generic; hot bath not recommended for sterility reasons. |
 | Centrifuge | Eppendorf 5425 R  | Fisher Scientific | 1 | Can be substituted with generic - needs to fit 1.5 mL tubes and 5 mL tubes (exchangable rotors). |
 | Vortex | Analog vortex mixer | Fisher Scientific | 1 | Can be substituted with generic. |
 |Forceps | Steel Forceps | Generic|2 |Must have tips small emough to fit in 5 mL tube and safely handle the filter, must be flame sterilizable|
@@ -205,7 +205,7 @@ For a full extraction set, including 23 eDNA samples and a field blank:
 | Buffer AE | Qiagen Buffer AE | **Included in kit** | 2400 μL | Kit contains 120 mL - sufficient for 1200 extractions using this protocol. |
 | **Chemicals** |
 | 100% molecular grade EtOH | 200 proof molecular biology grade ethanol | Fisher Scientific | 40 mL|Can be substituted with generic, must be 200 proof and molecular biology grade |
-| 70% EtOH | Molecular biology grade ethanol | Fisher Scientific | 20 mL |For cleaning, cen be susbsititued with generic|
+| 70% EtOH | Molecular biology grade ethanol | Fisher Scientific | 20 mL |For cleaning, cen be substituted with generic|
 | 10% bleach | Hypochlorite bleach | Clorox | 10 mL| Remake every ~5 days as bleach decomposes quickly at 10% concentration. The majority is used in bottle/tube sterilization.|
 
 ## STANDARD OPERATING PROCEDURE
@@ -218,7 +218,7 @@ To minimize the risk of sample contamination, this protocol should be carried ou
 
 1. Run UV light for 30 minutes in BioSafety II cabinet (BSC) and room, if not run since last use.
 2. Sterilize workspaces and durable equipment, including pipettes and forceps within the BSC, with 10% bleach. Then wipe down all surfaces and equipment with 70% EtOH. If you have a UV crosslinker available, UV pipettes and tube racks regularly for 2 minutes. If using forceps, sterilize by dipping in EtOH and flaming.
-4. Set up two 4 way tube racks for 5 mL tubes within the BSC by then turn on the UV light for 30 minutes to sterilize.
+4. Set up two 4-way tube racks for 5 mL tubes within the BSC then turn on the UV light for 30 minutes to sterilize.
 5. Turn on the heatshaker to 56°C. If the Buffer ATL has precipitate, place in heatshaker. Allow the buffer to heat until all precipitate is gone (~15 minutes), swirl as needed.
 6. Aliquot ~25 mL of 100% EtOH into a 50 mL falcon tube and store at -20°C freezer for later use.
 7. Ensure 100% molecular grade EtOH has been added to Buffer AW1 and AW2 according to the Qiagen DNeasy Blood and Tissue Kit manufacturer's instructions. 
@@ -231,13 +231,13 @@ To minimize the risk of sample contamination, this protocol should be carried ou
 
 #### Before beginning, review the three options for starting filter type and condition and decide which option fits your filters. Read carefully to determine which steps apply to your filter extraction, as some steps only apply to a certain filter type/storage condition. 
 
-**Option A: the filter is stored in a 5 mL or other tube containing EtOH and stored in a freezer
-Option B: the filter is stored in a 5 mL or other tube that does not contain EtOH and is stored in a freezer
-Option C: the sample was collected and stored in a Smith-Root self preserving eDNA filter**
+**Option A:** the filter is stored in a 5 mL or other tube containing EtOH and stored in a freezer
+**Option B:** the filter is stored in a 5 mL or other tube that does not contain EtOH and is stored in a freezer
+**Option C:** the sample was collected and stored in a Smith-Root self preserving eDNA filter
 
 1AB. (*Option A & B only*) Pull samples out of the freezer and allow to thaw for 5-10 minutes.
 
-1C. (*Option C only*) Remove the Smith-Root filter from its bag and carefully open (white rubber side up)
+1C. (*Option C only*) Remove the Smith-Root filter from its bag and carefully open (white rubber side up).
 
 2C. (*Option C only*) Using sterilized forceps, carefully remove the disc filter from the Smith-Root, ensuring that you do not also accidentally grab the paper backing filter. 
 
@@ -254,17 +254,17 @@ Option C: the sample was collected and stored in a Smith-Root self preserving eD
 *From this point on, all three options A, B & C are treated the same way*
 
 5. Add 80 µL proteinase K to the filter using a sterile  200 µL filter tip, then set aside the pipette with the used tip still attached, taking care not to let the tip touch anything. 
-6. Close and vortex the tube for 5-10 seconds
+6. Close and vortex the tube for 5-10 seconds.
 7. With the same 200 µL pipette tip, push and scrunch the filter down until it is fully submerged in the buffer.
 8. Incubate, while shaking at 600 rpm, at 56°C for 2-3 hours. Vortex 5 mL tubes every 30-40 minutes. If the filter rises above the reagent level, use a new 1000 µL tip to scrunch it back down before returning to the heatshaker. 
-9. Once all samples are removed from the BSC and inside the heatshaker, wipe down work surfaces with 10% bleach followed by 70% EtOH. Run the UV light inside the BSC for 30 minutes before samples are finished incubating.
-**Note**: This is a good time to pre-label your 5 mL tubes, spin columns, 1.5 mL snap cap and 1.5 mL gasketed tubes for the next steps. Ensure that all intermediate sample containers (i.e. spin coumns, 5 mL tubes) are labeled with at least the sample number on the top.
+9. Once all samples are removed from the BSC and inside the heatshaker, wipe down work surfaces with 10% bleach followed by 70% EtOH. Run the UV light inside the BSC for 30 minutes before samples are finished incubating. 
+**Note**: This is a good time to pre-label your 5 mL tubes, spin columns, 1.5 mL snap cap and 1.5 mL gasketed tubes for the next steps. Ensure that all intermediate sample containers (i.e. spin coumns, 5 mL tubes) are labeled with at least the sample number on the top. Set out two 4-way tube racks to hold the 5 mL tubes during the next sample steps.
 10. After 2-3 hours, remove samples from the heatshaker and vortex vigorously. 
 11. Using a 1000 µL tip, remove ALL the liquid from each 5 mL tube and transfer to a new LoBind 5 mL tube. Dispose of filter and old tube. If there is a pellet, avoid it as it will clog the spin column. Angle tip to avoid.
 12. Use marks on the 5 mL tube to estimate sample volume. Record these values in the eDNA notebook - helpful to record on a sticky note stuck to the BSC while measuring and then transferring to the notebook.
-13. Add Buffer AL and ice-cold 100% EtOH (i.e., aliquot you stored in the -20°C freezer) to the sample in equal volumes. Sample:Buffer:Ethanol = 1:1:1. Vortex vigorously 10-15 seconds.
+13. Add Buffer AL and ice-cold 100% EtOH (i.e., aliquot you stored in the -20°C freezer) to the sample in equal volumes. Sample:Buffer:Ethanol = 1:1:1. Vortex vigorously for 10-15 seconds.
 14. Pipet the mixture (max 650 µL) into a spin column in a 2 mL collection tube provided by the DNeasy Blood and Tissue kit. Repeat for all samples.
-15. Spin in the centrifuge at 6000 ∗ g for 1 min. Discard flow through. Tap collection tubes on a kimwipe to remove droplets before replacing the column in the collection tube.
+15. Spin in the centrifuge at 6000 ∗ g for 1 min. Discard flow-through. Tap collection tubes on a kimwipe to remove droplets before replacing the column in the collection tube.
 16. Repeat steps 14-15 until the full sample volume is filtered through each spin column (takes 4-5x).
 17. Move Buffer AE to heatshaker set at 56°C to preheat for final elution. Shaking function should be turned off. 
 18. Place the spin column in a new 2 ml collection tube, add 500 µl Buffer AW1, and centrifuge for 1 min at 6000 ∗ g. 
@@ -282,7 +282,7 @@ Option C: the sample was collected and stored in a Smith-Root self preserving eD
 
 A negative control (field blank or extraction blank) is included in every 24 set of extractions (i.e., 23 samples + NC). Samples and controls are quantified to verify DNA concentration using the [NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP](https://github.com/HanWeinrich/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP.md). Lastly, samples are PCR amplified alongside no template and positive controls.
 
-**Recommended (not required):** OME splits all DNA extracts into three aliquots: a working stock for immediate use at -20°C (~20-30 µl) in a 1.5 mL tube; a backup stock at -20°C in case the working stock is finished or contaminated (~30-40 μL) in a 1.5 mL tube; and an archival stock in a 1.5 mL gasketed cryotubes and frozen at -80°C indefinitely (~40 µl). All are stored in labeled cryoboxes.
+**Recommended (not required):** OME splits all DNA extracts into three aliquots: a working stock for immediate use at -20°C (~20-30 µl) in a 1.5 mL tube; a backup stock at -20°C in case the working stock is finished or contaminated (~30-40 μL) in a 1.5 mL tube; and an archival stock in a 1.5 mL gasketed cryotube and frozen at -80°C indefinitely (~40 µl). All are stored in labeled cryoboxes.
 
 ### Basic Troubleshooting Guide
 
