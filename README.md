@@ -1,4 +1,4 @@
-# NOAA-PMEL-OME_Extraction_Protocol_DiscFilter_Centrifuge
+# NOAA-PMEL-OME_eDNA_DiscFilters_Extraction_Proctocol_Centrifuge_BeBOP
 
 [![DOI](https://zenodo.org/badge/1032147704.svg)](https://doi.org/10.5281/zenodo.16740832)
 
