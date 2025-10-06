@@ -76,8 +76,8 @@ nucl_acid_ext_method_additional: not applicable
 | PROTOCOL NAME | LINK         | VERSION      | RELEASE DATE | INTERNAL/EXTERNAL |
 | ------------- | ------------ | ------------ | ------------ | ----------------- |
 | NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge | https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Proctocol_Centrifuge.md  | 1.1.4  |2025-10-06|  Internal |
-| NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Qiavac_BeBOP | https://github.com/Brown-NOAA/NOAA-PMEL-OME_Extraction_Sterivex_QIAvac_Protocol_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Protocol_QIAVac.md | 1.2.0 |2025-10-06 |  Internal |
-| NOAA-PMEL-OME_Qubit_Quantification_Protocol_BeBOP | https://github.com/HanWeinrich/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP.md | 1.0.1  | Internal |
+| NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Qiavac| https://github.com/Brown-NOAA/NOAA-PMEL-OME_Extraction_Sterivex_QIAvac_Protocol_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Protocol_QIAVac.md | 1.2.0 |2025-10-06 |  Internal |
+| NOAA-PMEL-OME_Qubit_Quantification_Protocol | https://github.com/HanWeinrich/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP.md | 1.0.1  | Internal |
 | Spens et al. 2017 |https://doi.org/10.1111/2041-210X.12683 | 1.0  | 2016-11-15 | External |
 
 ### Protocol Revision Record
