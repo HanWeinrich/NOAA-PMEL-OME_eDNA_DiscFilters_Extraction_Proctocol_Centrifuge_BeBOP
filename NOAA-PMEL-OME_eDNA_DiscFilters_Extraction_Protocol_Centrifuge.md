@@ -206,7 +206,7 @@ For a full extraction set, including 23 eDNA samples and a field blank:
 | Buffer AE | Qiagen Buffer AE | **Included in kit** | 2400 μL | Kit contains 120 mL - sufficient for 1200 extractions using this protocol. |
 | **Chemicals** |
 | 100% molecular grade EtOH | 200 proof molecular biology grade ethanol | Fisher Scientific | 40 mL|Can be substituted with generic, must be 200 proof and molecular biology grade. |
-| 70% EtOH | Molecular biology grade ethanol | Fisher Scientific | 20 mL |For cleaning, cen be substituted with generic.|
+| 70% EtOH | Molecular biology grade ethanol | Fisher Scientific | 20 mL |For cleaning, can be substituted with generic.|
 | 10% bleach | Hypochlorite bleach | Clorox | 10 mL| Remake every ~5 days as bleach decomposes quickly at 10% concentration. The majority is used in bottle/tube sterilization.|
 
 ## STANDARD OPERATING PROCEDURE
