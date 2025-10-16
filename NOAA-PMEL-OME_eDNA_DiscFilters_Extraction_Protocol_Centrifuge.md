@@ -102,6 +102,7 @@ nucl_acid_ext_method_additional: not applicable
 |NOAA|National Oceanic and Atmospheric Administration|
 |OME	|Ocean Molecular Ecology|
 |PCR| Polymerase chain reaction |
+|PES|Polyethersulfone|
 |PMEL	|Pacific Marine Environmental Laboratory
 |PPE    | Personal protective equipment |
 |UV| Ultraviolet|
@@ -119,7 +120,7 @@ nucl_acid_ext_method_additional: not applicable
 
 ## BACKGROUND
 
-This document describes the required protocol to extract DNA from a 47 mm disc filter with a 0.22 µm pore size used with vacuum filtration or from the [Smith-Root self-preserving eDNA filter](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13212).
+This document describes the required protocol to extract DNA from a 47 mm PVDF or PES disc filter with a 0.22 µm pore size used with vacuum filtration or from the [Smith-Root self-preserving eDNA filter](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13212).
 
 ### Summary
 
