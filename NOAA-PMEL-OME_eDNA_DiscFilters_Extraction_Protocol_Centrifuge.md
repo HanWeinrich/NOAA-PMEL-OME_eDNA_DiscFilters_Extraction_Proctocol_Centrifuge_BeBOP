@@ -14,7 +14,7 @@ skills_required: sterile technique, pipetting skills, standard molecular techniq
 time_required: 	480
 personnel_required: 1
 language: en
-issued:	2025-11-12
+issued:	2025-11-14
 audience: scientists
 publisher:	NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies
 hasVersion: 1.1.1
@@ -75,8 +75,8 @@ nucl_acid_ext_method_additional: not applicable
 
 | PROTOCOL NAME | LINK         | VERSION      | RELEASE DATE | INTERNAL/EXTERNAL |
 | ------------- | ------------ | ------------ | ------------ | ----------------- |
-| NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge | https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Protocol_Centrifuge.md  | 1.1.4  |2025-11-12|  Internal |
-| NOAA-PMEL-OME_Qubit_Quantification_Protocol | https://github.com/HanWeinrich/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP/blob/main/NOAA-PMEL-OME_Qubit_Quantification_Protocol.md | 1.0.1  | 2025-11-12 | Internal |
+| NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge | https://github.com/marinednadude/NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge/blob/main/NOAA-PMEL-OME_eDNA_Sterivex_Extraction_Protocol_Centrifuge.md  | 1.1.4  |2025-11-14|  Internal |
+| NOAA-PMEL-OME_Qubit_Quantification_Protocol | https://github.com/HanWeinrich/NOAA-PMEL-OME-Qubit-Quantification-Protocol-BeBOP/blob/main/NOAA-PMEL-OME_Qubit_Quantification_Protocol.md | 1.0.1  | 2025-11-14 | Internal |
 | Spens et al. 2017 |https://doi.org/10.1111/2041-210X.12683 | 1.0  | 2016-11-15 | External |
 
 ### Protocol Revision Record
@@ -89,7 +89,7 @@ nucl_acid_ext_method_additional: not applicable
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2025-08-04 | Initial draft release |
 | 1.1.0 | 2025-08-22 | Completed protocol release|
-| 1.1.1 | 2025-11-12 | FAIRe term update and minor spelling/grammar updates |
+| 1.1.1 | 2025-11-14 | FAIRe term update and minor spelling/grammar updates |
 
 ### Acronyms and Abbreviations
 
